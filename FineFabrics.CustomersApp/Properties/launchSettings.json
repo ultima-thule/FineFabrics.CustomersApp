@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FineFabrics.CustomersApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "FineFabrics.CustomersApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
